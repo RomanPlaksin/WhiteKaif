@@ -1,2 +1,0 @@
-# WhiteKaif
-Сайт проекта WhiteKaif
